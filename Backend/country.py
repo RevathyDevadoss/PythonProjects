@@ -3,7 +3,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 
-
+#this code is used to do RPA
 countries = []
 countrylst = []
 countrylistnew = []
